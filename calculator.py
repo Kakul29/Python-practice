@@ -1,19 +1,37 @@
-# calculator using python
-a=float(input("enter first value"))
-b=float(input("enter second value"))
-print("consider the following instructions : \nto perform addition type 1 \nto perform subtraction type 2 \nto perform multiplication type 3 \nto perform division type 4")
-c=int(input("operation to be performed"))
-if c== 1 : 
-   print(a+b)
-elif c==2:
-    print(a-b)
-elif c==3:
-    print(a*b)
-elif c==4:
-    print(a/b) 
+# Simple Calculator
+
+print("🧮 Welcome to Calculator\n")
+
+a = float(input("Enter first value: "))
+b = float(input("Enter second value: "))
+
+print("\nChoose operation:")
+print("1. Addition (+)")
+print("2. Subtraction (-)")
+print("3. Multiplication (*)")
+print("4. Division (/)")
+
+choice = input("Enter choice (1/2/3/4): ").strip()
+
+if choice == "1":
+    print(f"Result: {a + b}")
+
+elif choice == "2":
+    print(f"Result: {a - b}")
+
+elif choice == "3":
+    print(f"Result: {a * b}")
+
+elif choice == "4":
+    if b == 0:
+        print("❌ Cannot divide by zero")
+    else:
+        print(f"Result: {a / b}")
+
 else:
-    print("invalid")
-print("done")
+    print("❌ Invalid choice")
+
+print("\n✅ Done")
 
 
 
