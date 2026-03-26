@@ -1,2 +1,15 @@
-# Python-practice
-This repository contains my Python practice problems including basic loops, conditionals, and beginner-level logic building exercises.I am currently building my strong foundation in Python.
+# Python Practice
+
+This repository contains my Python learning journey.
+
+## Projects
+- Calculator
+- KBC Quiz Game
+
+## Topics Covered
+- Lists
+- Conditionals
+- Loops
+
+## Goal
+To build strong programming fundamentals for internships.
