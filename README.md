@@ -20,6 +20,13 @@ This repository documents my journey of learning Python and building a strong fo
 
 ---
 
+### 3. List Commands
+- Practiced handling dynamic commands
+- Used list operations like insert, append, remove
+- Strengthened input parsing using unpacking
+
+---  
+
 ## 💻 Mini Projects
 - Calculator
 - KBC Quiz Game
