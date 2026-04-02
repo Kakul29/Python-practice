@@ -8,4 +8,5 @@ query_name = input()
 avg = sum(marks[query_name]) / len(marks[query_name])
 print(f"{avg:.2f}")
 
+
         
