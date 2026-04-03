@@ -27,6 +27,15 @@ This repository documents my journey of learning Python and building a strong fo
 
 ---  
 
+### 4. Tuple Hash
+- Created a tuple from space-separated input
+- Learned about immutability of tuples
+- Used built-in hash() function
+- Understood that hash values may differ across Python versions
+- Practiced input parsing using map() and split()
+
+---
+
 ## 💻 Mini Projects
 - Calculator
 - KBC Quiz Game
