@@ -36,6 +36,57 @@ This repository documents my journey of learning Python and building a strong fo
 
 ---
 
+### 5. Swap Case
+**Source:** HackerRank  
+- Converted uppercase to lowercase and vice versa
+- Used swapcase() method
+- Practiced string manipulation and function-based problems
+
+---
+
+### 6. Split and Join
+**Source:** HackerRank  
+- Split string into list using split()
+- Joined list into string using join()
+- Practiced string formatting
+
+---
+
+### 7. Print Full Name
+**Source:** HackerRank  
+- Used f-strings for formatting output
+- Understood difference between print() and return
+- Practiced function structure
+
+---
+
+### 8. Mutate String
+**Source:** HackerRank  
+- Learned that strings are immutable
+- Modified string using list conversion
+- Used join() to rebuild string
+- Practiced index-based updates
+
+---
+
+### 9. Count Substring
+**Source:** HackerRank  
+- Counted occurrences of substring in a string
+- Used string slicing
+- Understood overlapping substrings
+- Applied loop-based comparison
+
+---
+
+### 10. String Validation
+**Source:** HackerRank  
+- Checked if string contains alphanumeric, alphabetic, numeric, lowercase, and uppercase characters
+- Used any() for efficient condition checking
+- Practiced string methods like isalnum(), isalpha(), isdigit(), islower(), isupper()
+- Learned difference between any() and all()
+
+---
+
 ## 💻 Mini Projects
 - Calculator
 - KBC Quiz Game
@@ -50,7 +101,19 @@ This repository documents my journey of learning Python and building a strong fo
 - Loops
 - Functions
 - Input handling
-
+Strings & Advanced Concepts
+- String Manipulation
+- String Methods (swapcase, split, join, isalpha, isdigit, etc.)
+- String Slicing
+- Immutability of Strings
+- List Conversion for String Modification
+- Loop-based String Processing
+- Conditional Checks using any() and all()
+- Formatted Output (f-strings)
+Data Structures
+- Tuples
+- Hashing Basics
+  
 ---
 
 ## 🎯 Goal
