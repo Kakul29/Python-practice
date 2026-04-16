@@ -87,6 +87,16 @@ This repository documents my journey of learning Python and building a strong fo
 
 ---
 
+### 11. Text Alignment
+**Source:** HackerRank  
+
+- Used rjust(), ljust(), and center() for string alignment
+- Built complex patterns using loops
+- Learned how to control spacing and positioning
+- Practiced pattern-based problem solving
+
+---  
+
 ## 💻 Mini Projects
 - Calculator
 - KBC Quiz Game
