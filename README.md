@@ -97,6 +97,38 @@ This repository documents my journey of learning Python and building a strong fo
 
 ---  
 
+### 12. Text Wrap
+**Source:** HackerRank  
+- Used textwrap.fill() to format strings
+- Printed string in fixed-width lines
+- Learned difference between wrap() and fill()
+
+---
+
+### 13. String Formatting
+**Source:** HackerRank  
+- Converted numbers to binary, octal, and hexadecimal
+- Used formatted strings with alignment
+- Learned dynamic width using binary length
+
+---
+
+### 14. Alphabet Rangoli
+**Source:** HackerRank  
+- Built symmetric alphabet pattern using loops
+- Used chr() for character generation
+- Practiced pattern mirroring and centering
+
+---
+
+### 15. Capitalize!
+**Source:** HackerRank  
+- Capitalized first letter of each word
+- Handled multiple spaces correctly
+- Used split() and join() effectively
+
+---
+
 ## 💻 Mini Projects
 - Calculator
 - KBC Quiz Game
@@ -123,6 +155,13 @@ Strings & Advanced Concepts
 Data Structures
 - Tuples
 - Hashing Basics
+Advanced String Handling
+- String alignment (rjust, ljust, center)
+- String formatting with f-strings
+- Text wrapping using textwrap
+- Character manipulation using ASCII (chr, ord)
+- Pattern-based string problems
+- Dynamic width formatting
   
 ---
 
